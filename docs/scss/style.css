@@ -108,7 +108,7 @@ h6, .h6 {
 
 .btn-primary {
   background: #ffbc3b;
-  color: #000000; }
+  color: #fff; }
   .btn-primary::before {
     background: #fff; }
   .btn-primary:active {
@@ -135,7 +135,7 @@ h6, .h6 {
     background: #ffbc3b; }
   .btn-secondary:active {
     background: #ffbc3b;
-    color: #fff;
+    color: #000;
     border: 1px solid #fff; }
   .btn-secondary:hover {
     background: #fff;
