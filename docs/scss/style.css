@@ -123,7 +123,7 @@ h6, .h6 {
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  color: #fff;
+  color: #000;
   background-color: #ffab08;
   border-color: #ffab08; }
 
@@ -135,7 +135,7 @@ h6, .h6 {
     background: #ffbc3b; }
   .btn-secondary:active {
     background: #ffbc3b;
-    color: #000;
+    color: #fff;
     border: 1px solid #fff; }
   .btn-secondary:hover {
     background: #fff;
