@@ -108,7 +108,7 @@ h6, .h6 {
 
 .btn-primary {
   background: #ffbc3b;
-  color: #fff; }
+  color: #000000; }
   .btn-primary::before {
     background: #fff; }
   .btn-primary:active {
